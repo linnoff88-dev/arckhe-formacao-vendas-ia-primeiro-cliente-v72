@@ -6,7 +6,7 @@ Visão: construir ficou fácil, confiar não. A auditoria de IA abre a porta da 
 
 Fonte (não alterada): `~/projetos/formacao-vendas-ia-primeiro-cliente` (COURSE_PLAN.md e `curso/trilha*/modulo-*.html`). Ângulo do Auditor: `~/projetos/ia-2027/estrategia/CURRICULO-PROF2030.md` §4 e §7. Regras: sem promessa de renda; dólar só como faixa ilustrativa com "adapte ao seu mercado"; sem citar a fonte original; nada inventado (a ligação simulada é ficção rotulada; o que ela ensina vem da fonte 3.2).
 
-Empresa-laboratório dos exercícios: **Horizonte Distribuidora** (`https://inematds.github.io/prof2030-lab/`), PME fictícia de 40 pessoas. Aqui o aluno só faz o inventário, nomeia riscos e escreve autorização e plano; achar as falhas plantadas é trabalho da formação Auditor.
+Empresa-laboratório dos exercícios: **Horizonte Distribuidora** (`https://linnoff88-dev.github.io/ PME fictícia de 40 pessoas. Aqui o aluno só faz o inventário, nomeia riscos e escreve autorização e plano; achar as falhas plantadas é trabalho da formação Auditor.
 
 ## As 8 aulas
 
@@ -29,7 +29,7 @@ A aula 8 fecha com `mapa` (4 degraus: auditar, precificar, prospectar, entregar)
 - **Autorização por escrito**: aula 3 (passo 0 e modelo "Termo de escopo e autorização").
 - Escopo dito em voz alta: "não é pentest, nem resposta a incidente, nem parecer jurídico" (aula 3, no termo e na abertura da reunião; aula 7).
 - Relatório com plano de 30 dias: aula 3 (entregável) e aula 8 (mapa).
-- Ponte: aula 3 e aula 8 apontam para a formação Auditor (`https://eventos.inema.pro/prof2030/`).
+- Ponte: aula 3 e aula 8 apontam para a formação Auditor (`https://eventos.ARCKHÉ.pro/prof2030/`).
 
 ## A simconversa da aula 6 — "o dono da distribuidora"
 

@@ -1,21 +1,21 @@
 {
   "id": "formacao-vendas-ia-primeiro-cliente-v72",
   "lang": "pt-BR",
-  "url": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "Vendas com IA 4 · Do Zero ao Primeiro Cliente",
   "sub": "Formação Vendas com IA · curso 4 de 5",
   "volta": {
     "t": "Área Consultoria de IA",
-    "href": "https://eventos.inema.pro/consultoria-ia/"
+    "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/"
   },
   "lado_card": {
     "rot": "Formação Vendas com IA",
     "t": "Curso 4 de 5",
     "texto": "Na ordem sugerida, o último é o curso 5: vender o acompanhamento, com mentoria de 90 dias e acompanhamento mensal.",
     "link": "Ir para o curso 5",
-    "href": "https://inematds.github.io/formacao-vendas-ia-masterclass-v72/"
+    "href": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://eventos.inema.pro/consultoria-ia/\">eventos.inema.pro/consultoria-ia</a> · <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a> <!-- inema-backlink:v1 --><br><a href=\"https://www.inema.club/cursos/333-formacao-vendas-com-ia-4-do-zero-ao-primeiro-cliente-v7-2/\">Ficha completa deste curso no INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guia: como aprender inteligência artificial</a><!-- /inema-backlink:v1 -->",
+  "rodape": "ARCKHÉ AI · conteúdo aberto e gratuito · formato ARCKHÉ Learning v7.2 · <a href=\"https://eventos.ARCKHÉ.pro/consultoria-ia/\">eventos.ARCKHÉ.pro/consultoria-ia</a> · <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Profissional 2030</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a> <!-- ARCKHÉ-backlink:v1 --><br><a href=\"https://www.ARCKHÉ AI/cursos/333-formacao-vendas-com-ia-4-do-zero-ao-primeiro-cliente-v7-2/\">Ficha completa deste curso no ARCKHÉ AI</a> · <a href=\"https://www.ARCKHÉ AI/aprender-inteligencia-artificial/\">Guia: como aprender inteligência artificial</a><!-- /ARCKHÉ-backlink:v1 -->",
   "videos": {},
   "inicio": {
     "kicker": "Formação Vendas com IA · curso 4 de 5 · 8 aulas",
@@ -24,7 +24,7 @@
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Ver a área Consultoria de IA",
-      "href": "https://eventos.inema.pro/consultoria-ia/"
+      "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/"
     },
     "capa_alt": "Consultora e o dono de uma distribuidora revisam um relatório de uma página numa mesa, com o galpão ao fundo.",
     "numeros": [
@@ -68,7 +68,7 @@
       {
         "t": "Onde este curso entra no Profissional 2030",
         "itens": [
-          "O <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a> tem quatro papéis: Consultor, Auditor, Mentor e Treinador. Os quatro vendem confiança, não construção.",
+          "O <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Profissional 2030</a> tem quatro papéis: Consultor, Auditor, Mentor e Treinador. Os quatro vendem confiança, não construção.",
           "Este curso usa o <b>Auditor</b> como porta de entrada: a auditoria de IA abre a empresa. Depois vem o <b>Consultor</b>, com o plano e o acompanhamento.",
           "Base comum que ele usa: riscos de IA, escopo com autorização por escrito (\"não é pentest, nem resposta a incidente, nem parecer jurídico\") e o relatório de uma página."
         ]

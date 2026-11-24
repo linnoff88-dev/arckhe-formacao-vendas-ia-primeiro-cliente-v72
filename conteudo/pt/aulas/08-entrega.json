@@ -117,7 +117,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "Terminar o curso não muda nada sozinho. A diferença quase nunca é conhecimento: é a semana 3.",
-      "fonte": "Laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp da Horizonte Distribuidora</a>",
+      "fonte": "Laboratório: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp da Horizonte Distribuidora</a>",
       "exercicios": [
         {"id": "e1", "titulo": "1 · Revisão do agente da Horizonte", "min": "40 min",
          "texto": "Abra a peça do agente de WhatsApp no laboratório e leia a instrução dele. Passe o checklist de revisão parte por parte e escreva as correções.",
@@ -164,9 +164,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Próximo da formação: Vendas com IA 5 · Masterclass", "href": "https://inematds.github.io/formacao-vendas-ia-masterclass-v72/", "icone": "seta"},
-        {"t": "Laboratório: Horizonte Distribuidora", "href": "https://inematds.github.io/prof2030-lab/", "icone": "escudo"},
-        {"t": "Profissional 2030: a formação Auditor de IA", "href": "https://eventos.inema.pro/prof2030/", "icone": "alvo"}
+        {"t": "Próximo da formação: Vendas com IA 5 · Masterclass", "href": "https://linnoff88-dev.github.io/ "icone": "seta"},
+        {"t": "Laboratório: Horizonte Distribuidora", "href": "https://linnoff88-dev.github.io/ "icone": "escudo"},
+        {"t": "Profissional 2030: a formação Auditor de IA", "href": "https://eventos.ARCKHÉ.pro/prof2030/", "icone": "alvo"}
       ]
     }
   ]
