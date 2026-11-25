@@ -157,7 +157,7 @@
         {
           "rot": "La cuenta de una línea",
           "icone": "lista",
-          "conteudo": "PROJETO: <nome>\nPreço: <valor>  ·  Horas estimadas: <h>  ·  Custo de terceiros: <valor>\nMargem = (preço − custo de terceiros − horas × <sua hora>) ÷ preço = <%>\n\nSe a margem não fecha em pelo menos um terço:\n[ ] o preço sobe   [ ] o escopo encolhe   [ ] eu recuso"
+          "conteudo": "PROJETO: <nome>\nPreço: <valor>  ·  Horas estimadas: <h>  ·  Custo de terceiros: <valor>\nMargem = (preço − custo de terceiros − horas × <sua hora>) ÷ preço = <%>\n\nSe a margem nêo fecha em pelo menos um terço:\n[ ] o preço sobe   [ ] o escopo encolhe   [ ] eu recuso"
         },
         {
           "rot": "Prompt · portafolio de 90 días",
